@@ -7,7 +7,7 @@ Deneyimizi tek sefer yapılmıştır
 Araştırmamızın amacı suya katı bırakıldığında sıçramanın faktörleri incelemek nasıl en aza indirebileceğimizi araştırmaktır 
 Bizim hipotezimize göre hava ve cisim arasındaki sürtünmeye ve su ile cisim arasındaki bırakıldığındaki etkiye bağlı olacağını düşünüyoruz.Bunlara bağlı olarak ağırlığın, sürtünmenin ve  bu deneyde faydalanacığımız en önemli kilit noktası olacağının kanaatindeyiz.
 
-Deneyimizle alakalı yapılmış herhangi bir video bulunamamıştır.Deneyimiz sonuçları karşılaştırma ilkesiyle yapılmuştır.
+Deneyimizle alakalı yapılmış herhangi bir video bulunamamıştır.
 
 # Materyal ve Yöntem (Experimental Setup)                                                                                                 
 Deneyimizin yöntemimiz karşılaştırmaya dayalıdır.
