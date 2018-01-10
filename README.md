@@ -11,10 +11,15 @@ Deneyimizle alakalı yapılmış herhangi bir video bulunamamıştır.
 
 # Materyal ve Yöntem (Experimental Setup)                                                                                                 
 Deneyimizin yöntemimiz karşılaştırmaya dayalıdır.
+
 Deneyimizin yapıldığı alan havalandırılmış on beş metrekarelik alanda yapılmıştır.Deneyimizi engelleyecek herhangi bir husus çalışma alanımızda bulunmamaktadır.
+
 2 farklı cins kap, bir adet büyük bilye, bir adet dikdötgen prizma şeklinde deterjan tableti deneyimizde kullanılan malzemelerdir.       Deneyimiz aşamalarda ilk olarak kabımıza yeteri kadar sıvı konmuştur.Farklı türdeki katılar farklı boylarda sıvıya doğru bırakılmıştır sonra ikinci kaba geçip yeterli sıvı koyulduktan sonra aynı işlemler ikinci kabımıza da uygulanmıştır.Sonuçlar bulgular bölümünde açıklanmıştır.
+
 Herhangi bir özel ölçüm cihazı kullanılmamıştır
+
 Deney grup üyemiz Berkan Eti tarafından onun evinde yapılmıştır.
+
 Deney videosu grup üyemiz Berkan Eti tarfından hazırlanarak konulmuştur.
 # Bulgular (Results)
  
