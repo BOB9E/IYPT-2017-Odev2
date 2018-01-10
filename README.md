@@ -4,7 +4,9 @@
  Bizim grupça karar verdiğimiz soru 2008 yılının 'Making a Splash' sorusudur. Bu soruda bizim görevimiz 50 metreden suya attığımız bir katının sebep olduğu sıçramayı en az indirmenin faktörlerini bulmaktır. Bu problem sadece deney bağlı değişik faktörleri ekleyip çıkartmaya bağlı olarak çözülebilir. Deneyde gerekenler farklı boyut ve cinslerde katılar,farklı kapasitede kaplar ve o kapları doldurabilecek miktarda farklı türlerde sıvılar olacaktır. Cisimlerin hava ile olan bağıntısını sık sık kullanacağız. Aynı zamanda sürtünme ve basınç gibi faktörleri de göz önünde bulundurmamız gerekecek. Tahminimiz sıçramanın büyük kısmının hava,cisim ve suyun birbirleriyle olan ilişkisiyle büyüyüp küçüldüğüdür
 # Giriş (Introduction)
 Deneyimizi tek sefer yapılmıştır
+
 Araştırmamızın amacı suya katı bırakıldığında sıçramanın faktörleri incelemek nasıl en aza indirebileceğimizi araştırmaktır 
+
 Bizim hipotezimize göre hava ve cisim arasındaki sürtünmeye ve su ile cisim arasındaki bırakıldığındaki etkiye bağlı olacağını düşünüyoruz.Bunlara bağlı olarak ağırlığın, sürtünmenin ve  bu deneyde faydalanacığımız en önemli kilit noktası olacağının kanaatindeyiz.
 
 Deneyimizle alakalı yapılmış herhangi bir video bulunamamıştır.
