@@ -16,7 +16,7 @@ Deneyimizin yöntemimiz karşılaştırmaya dayalıdır.
 
 Deneyimizin yapıldığı alan havalandırılmış on beş metrekarelik alanda yapılmıştır.Deneyimizi engelleyecek herhangi bir husus çalışma alanımızda bulunmamaktadır.
 
-2 farklı cins kap, bir adet büyük bilye, bir adet dikdötgen prizma şeklinde deterjan tableti deneyimizde kullanılan malzemelerdir.       Deneyimiz aşamalarda ilk olarak kabımıza yeteri kadar sıvı konmuştur.Farklı türdeki katılar farklı boylarda sıvıya doğru bırakılmıştır sonra ikinci kaba geçip yeterli sıvı koyulduktan sonra aynı işlemler ikinci kabımıza da uygulanmıştır.Sonuçlar bulgular bölümünde açıklanmıştır.
+2 farklı cins kap, bir adet büyük bilye, bir adet dikdötgen prizma şeklinde deterjan tableti deneyimizde kullanılan malzemelerdir.       Deneyimiz aşamalarda ilk olarak kabımıza yeteri kadar sıvı konmuştur.Farklı türdeki katılar farklı boylarda sıvıya doğru bırakılmıştır, sonra ikinci kaba geçip yeterli sıvı koyulduktan sonra aynı işlemler ikinci kabımıza da uygulanmıştır.Sonuçlar bulgular bölümünde açıklanmıştır.
 
 Herhangi bir özel ölçüm cihazı kullanılmamıştır
 
